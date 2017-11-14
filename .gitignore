@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 ## Ignore .DS_Store
+=======
+# Ignore Mac DS_Store files
+>>>>>>> 7ff45d4b916deb5427135f80dc8beac8eb0e0834
 .DS_Store
 **/.DS_Store
