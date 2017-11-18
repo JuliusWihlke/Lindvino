@@ -1,6 +1,115 @@
-.jumboImg {
-  background: url("https://images.unsplash.com/photo-1483354483454-4cd359948304?auto=format&fit=crop&w=2100&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D") center center no-repeat;
+.bgimage-landing-bg {
+  background: url("/img/landing-bg.png") center center no-repeat;
   background-size: cover; }
+
+.bgimage-about-bg {
+  background: url("/img/about-bg.png") center center no-repeat;
+  background-size: cover; }
+
+.bgcolor-red-def {
+  background-color: #F06060 !important; }
+
+.col-red-def {
+  color: #F06060 !important; }
+
+.bgcolor-red-dark {
+  background-color: #7C2A3B !important; }
+
+.col-red-dark {
+  color: #7C2A3B !important; }
+
+.bgcolor-red-light {
+  background-color: #EF5449 !important; }
+
+.col-red-light {
+  color: #EF5449 !important; }
+
+.bgcolor-red-warm {
+  background-color: #C44335 !important; }
+
+.col-red-warm {
+  color: #C44335 !important; }
+
+.bgcolor-brown-warm {
+  background-color: #3B2314 !important; }
+
+.col-brown-warm {
+  color: #3B2314 !important; }
+
+.bgcolor-brown-def {
+  background-color: #5C4C51 !important; }
+
+.col-brown-def {
+  color: #5C4C51 !important; }
+
+.bgcolor-brown-light {
+  background-color: #B7A38B !important; }
+
+.col-brown-light {
+  color: #B7A38B !important; }
+
+.bgcolor-brown-pale {
+  background-color: #5C4C52 !important; }
+
+.col-brown-pale {
+  color: #5C4C52 !important; }
+
+.bgcolor-yellow-warm {
+  background-color: #F69229 !important; }
+
+.col-yellow-warm {
+  color: #F69229 !important; }
+
+.bgcolor-yellow-dark {
+  background-color: #D97427 !important; }
+
+.col-yellow-dark {
+  color: #D97427 !important; }
+
+.bgcolor-yellow-def {
+  background-color: #F2B461 !important; }
+
+.col-yellow-def {
+  color: #F2B461 !important; }
+
+.bgcolor-yellow-primary {
+  background-color: #FFD779 !important; }
+
+.col-yellow-primary {
+  color: #FFD779 !important; }
+
+.bgcolor-green-warm {
+  background-color: #2F5458 !important; }
+
+.col-green-warm {
+  color: #2F5458 !important; }
+
+.bgcolor-green-dark {
+  background-color: #192B38 !important; }
+
+.col-green-dark {
+  color: #192B38 !important; }
+
+.bgcolor-green-def {
+  background-color: #4E7368 !important; }
+
+.col-green-def {
+  color: #4E7368 !important; }
+
+.bgcolor-green-light {
+  background-color: #8CBDB1 !important; }
+
+.col-green-light {
+  color: #8CBDB1 !important; }
+
+.landing-jum-height {
+  height: 80vh; }
+
+.about-jum-height {
+  height: 16em; }
+
+.img-pos {
+  vertical-align: middle; }
 
 /*!
  * Bootstrap v4.0.0-beta.2 (https://getbootstrap.com)
