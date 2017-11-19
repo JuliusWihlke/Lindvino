@@ -51,7 +51,6 @@ $brand-colors: (
   green-light: $green-light
 );
 
-
 @each $image in $fullsizeImg {
   .bgimage-#{$image} {
     background: url('/img/#{$image}.png') center center no-repeat;
@@ -74,6 +73,11 @@ $brand-colors: (
 
 .about-jum-height {
   height: 16em;
+}
+.detail-txt {
+  margin-bottom: -15px;
+  font-size: .8em;
+
 }
 
 .img-pos {
