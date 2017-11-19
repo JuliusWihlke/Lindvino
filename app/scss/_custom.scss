@@ -53,7 +53,7 @@ $brand-colors: (
 
 @each $image in $fullsizeImg {
   .bgimage-#{$image} {
-    background: url('/img/#{$image}.png') center center no-repeat;
+    background: url('../img/#{$image}.png') center center no-repeat;
     background-size: cover;
   }
 }
@@ -78,6 +78,9 @@ $brand-colors: (
   margin-bottom: -15px;
   font-size: .8em;
 
+}
+.img-prize {
+  width: 54px;
 }
 
 .img-pos {
