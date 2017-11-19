@@ -1,9 +1,9 @@
 .bgimage-landing-bg {
-  background: url("/img/landing-bg.png") center center no-repeat;
+  background: url("img/landing-bg.png") center center no-repeat;
   background-size: cover; }
 
 .bgimage-about-bg {
-  background: url("/img/about-bg.png") center center no-repeat;
+  background: url("img/about-bg.png") center center no-repeat;
   background-size: cover; }
 
 .bgcolor-red-def {
