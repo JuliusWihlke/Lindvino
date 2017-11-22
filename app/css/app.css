@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .bgimage-landing-bg {
   background: url("../img/landing-bg.png") center center no-repeat;
   background-size: cover; }
@@ -117,6 +118,9 @@
 
 .img-pos {
   vertical-align: middle; }
+
+.leaf  {
+  width: 128px; }
 
 /*!
  * Bootstrap v4.0.0-beta.2 (https://getbootstrap.com)
